@@ -10,6 +10,10 @@ Dynamic Waves: The waves in the sea are dynamically animated, providing a lifeli
 Sunset Effect: The project employs lighting techniques to simulate a sunset ambience, with warm hues and soft shadows that create a tranquil atmosphere.
 User Interaction: Users can interact with the scene by adjusting parameters like the sun's position, wave speed, and more, allowing them to customize the visual experience.
 
+Screenshots: 
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/b4507441-1fc4-44fd-968b-6712d53a069a)
+
+
 OpenGL and GLUT: The project utilizes the OpenGL graphics library and the GLUT toolkit to handle window management, rendering, and interaction.
 
 How to Use:
