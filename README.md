@@ -11,7 +11,28 @@ Sunset Effect: The project employs lighting techniques to simulate a sunset ambi
 User Interaction: Users can interact with the scene by adjusting parameters like the sun's position, wave speed, and more, allowing them to customize the visual experience.
 
 Screenshots: 
+
 ![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/b4507441-1fc4-44fd-968b-6712d53a069a)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/b1c43af2-7258-4d6e-a710-c898ed78dc24)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/75b71740-2ed9-4964-a18c-ef704e1d9020)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/a17fb7b8-8ae9-4765-92a1-051a8382c881)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/56db9298-42b7-425a-b178-03b301ba18ee)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/ccdd167a-6b8b-4c64-a399-7a356436b1c7)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/eee11159-379d-4579-9b43-38299a4b3a83)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/d4561d08-751f-4f52-8d35-392bf3ae25da)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/18717eb5-f6f4-4ce3-870c-7f332ae921ed)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/2c11b2a9-e9f6-48d9-b73f-0a488151ab8a)
+
+![image](https://github.com/Niyaz-Mahmud/Sea_Beach_View_Using_Glut-2D_Graphics_Project/assets/90250615/fce295b4-ad42-4863-bb47-8b0ec3e31137)
 
 
 OpenGL and GLUT: The project utilizes the OpenGL graphics library and the GLUT toolkit to handle window management, rendering, and interaction.
