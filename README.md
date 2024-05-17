@@ -51,8 +51,5 @@ Requirements:
 Contribution:
 Contributions to the project are welcome! If you want to improve the project, feel free to fork the repository, make changes, and submit a pull request. Whether enhancing the visuals, optimizing the code, or adding new features, your contributions can help make this project even more impressive.
 
-Credits:
-This project was developed and maintained by [NIYAZ AL MAHMUD, MD. ABU RAIHAN,  JANNATUL FERDOUS JANNAT, SABIHA KHAIR OHI, MST.JANNATUL FERDOUS, MD.SHAFAYET HOSSAIN RIZON]. Contact me at [niyazmahmud213@gmail.com] for any inquiries or collaboration opportunities.
-
 License:
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
